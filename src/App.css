@@ -1,3 +1,8 @@
+.responsive-img {
+  width: fit-content;
+  padding: 1px;
+}
+
 .App {
   text-align: center;
 }

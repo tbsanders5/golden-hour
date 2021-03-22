@@ -1,6 +1,6 @@
 .responsive-img {
-  width: fit-content;
-  padding: 1px;
+  min-height: 100%;
+  width: 100%;
 }
 
 .App {
